@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Application for weather data and forecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "sunny",
+    "cold",
+    "hot",
+    "rain",
+    "snow"
+  ],
+  "author": "Dragan Roganović",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "request": "^2.73.0",
+    "yargs": "^4.8.1"
+  }
+}
